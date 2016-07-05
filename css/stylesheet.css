@@ -201,7 +201,7 @@ ul {
 
 /*add media on portfolio and travel page*/
 /*for tablet device*/
-@media(max-width:1190px) {
+/*@media(max-width:1190px) {
 	.navbar {
 		font-size: 16px;
 	}
@@ -242,10 +242,10 @@ ul {
 	hr {
 		display:none;
 	}
-}
+}*/
 
 /*for smart phone device*/
-@media(max-width: 830px) {
+@media(max-width: 1440px) {
 	.floating-box{
 		width:705px;
 		height:560px;
